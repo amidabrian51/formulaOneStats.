@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "fc87e117cb6a488ba3d5ac4941561590"
+build_time: [1550844226, 922066000]
+inputs:
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1550268272, 0]

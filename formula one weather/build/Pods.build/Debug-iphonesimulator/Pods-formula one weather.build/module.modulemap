@@ -1,0 +1,6 @@
+framework module Pods_formula_one_weather {
+  umbrella header "Pods-formula one weather-umbrella.h"
+
+  export *
+  module * { export * }
+}

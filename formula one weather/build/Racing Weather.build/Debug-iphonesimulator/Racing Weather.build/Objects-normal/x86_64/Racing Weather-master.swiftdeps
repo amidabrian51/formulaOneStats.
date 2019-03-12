@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "61803fa5bc3ee6c214d34b6fa34b8335"
+build_time: [1552419415, 540886000]
+inputs:
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Racing Weather/Model/WeatherDataModel.swift": [1551991070, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Racing Weather/Controller/StandingViewController.swift": [1552419411, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Racing Weather/Controller/ViewController.swift": [1550845714, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Racing Weather/Controller/seasonViewController.swift": [1551727841, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Racing Weather/Controller/WeatherViewController.swift": [1550842110, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Racing Weather/AppDelegate.swift": [1550266902, 0]

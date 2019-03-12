@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "9be21831a85634eb6c06aa033644502f"
+build_time: [1550844226, 922014000]
+inputs:
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Pods/Alamofire/Source/AFError.swift": [1550268272, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Pods/Alamofire/Source/Alamofire.swift": [1550268272, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1550268272, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Pods/Alamofire/Source/MultipartFormData.swift": [1550268272, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1550268272, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Pods/Alamofire/Source/Notifications.swift": [1550268272, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Pods/Alamofire/Source/ParameterEncoding.swift": [1550268272, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Pods/Alamofire/Source/Request.swift": [1550268272, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Pods/Alamofire/Source/Response.swift": [1550268272, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Pods/Alamofire/Source/ResponseSerialization.swift": [1550268272, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Pods/Alamofire/Source/Result.swift": [1550268272, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1550268272, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Pods/Alamofire/Source/SessionDelegate.swift": [1550268272, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Pods/Alamofire/Source/SessionManager.swift": [1550268272, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Pods/Alamofire/Source/TaskDelegate.swift": [1550268272, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Pods/Alamofire/Source/Timeline.swift": [1550268272, 0]
+  "/Users/briankaty1/Documents/iPhone_Projects/formula1_weather/formula one weather/Pods/Alamofire/Source/Validation.swift": [1550268272, 0]
